@@ -130,8 +130,8 @@ class _UIUtsState extends State<UIUts> {
                         begin: Alignment.topRight,
                         end: Alignment.bottomRight,
                         colors: [
-                          Color.fromARGB(255, 121, 124, 125),
-                          Color.fromARGB(255, 58, 90, 122),
+                          Color.fromARGB(255, 189, 116, 203),
+                          Color.fromARGB(255, 189, 116, 203),
                         ],
                       ),
                       boxShadow: const [
@@ -199,8 +199,8 @@ class _UIUtsState extends State<UIUts> {
                         begin: Alignment.topLeft,
                         end: Alignment.bottomRight,
                         colors: [
-                          Color.fromARGB(255, 21, 128, 132),
-                          Color.fromARGB(255, 21, 186, 189),
+                          Color.fromARGB(255, 73, 139, 141),
+                          Color.fromARGB(255, 73, 139, 141),
                         ],
                       ),
                       boxShadow: const [
@@ -267,8 +267,8 @@ class _UIUtsState extends State<UIUts> {
                         begin: Alignment.topLeft,
                         end: Alignment.bottomRight,
                         colors: [
-                          Color.fromARGB(255, 205, 19, 131),
-                          Color.fromARGB(255, 212, 196, 188),
+                          Color.fromARGB(255, 221, 152, 112),
+                          Color.fromARGB(255, 221, 152, 112),
                         ],
                       ),
                       boxShadow: const [
@@ -336,8 +336,8 @@ class _UIUtsState extends State<UIUts> {
                         begin: Alignment.topLeft,
                         end: Alignment.bottomRight,
                         colors: [
-                          Color.fromARGB(245, 19, 90, 205),
-                          Color.fromARGB(255, 165, 177, 235),
+                          Color.fromARGB(245, 94, 94, 103),
+                          Color.fromARGB(245, 94, 94, 103),
                         ],
                       ),
                       boxShadow: const [
@@ -411,8 +411,8 @@ class _UIUtsState extends State<UIUts> {
                         begin: Alignment.topLeft,
                         end: Alignment.bottomRight,
                         colors: [
-                          Color.fromARGB(255, 205, 78, 19),
-                          Color.fromARGB(255, 224, 141, 99),
+                          Color.fromARGB(255, 232, 226, 116),
+                          Color.fromARGB(255, 232, 226, 116),
                         ],
                       ),
                       boxShadow: const [
