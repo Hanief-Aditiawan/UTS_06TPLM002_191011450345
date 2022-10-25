@@ -316,7 +316,7 @@ class _UIUtsState extends State<UIUts> {
                           child: Padding(
                             padding: const EdgeInsets.only(top: 18.0),
                             child: Image.network(
-                                'https://www.freeiconspng.com/thumbs/mark-zuckerberg-png/facebook-owner-mark-zuckerberg-png-1.png'),
+                                'https://pngfolio.com/images/all_img/copy/1635221496shoes-png-image.png'),
                           ),
                         ),
                       ],
@@ -391,7 +391,7 @@ class _UIUtsState extends State<UIUts> {
                           child: Padding(
                             padding: const EdgeInsets.only(top: 18.0),
                             child: Image.network(
-                                'https://www.freeiconspng.com/thumbs/mark-zuckerberg-png/facebook-owner-mark-zuckerberg-png-1.png'),
+                                'https://www.freepnglogos.com/uploads/shoes-png/shoes-wasatch-running-3.png'),
                           ),
                         ),
                       ],
@@ -460,7 +460,7 @@ class _UIUtsState extends State<UIUts> {
                           child: Padding(
                             padding: const EdgeInsets.only(top: 18.0),
                             child: Image.network(
-                                'https://www.freeiconspng.com/thumbs/mark-zuckerberg-png/facebook-owner-mark-zuckerberg-png-1.png'),
+                                'https://pngfolio.com/images/all_img/copy/1635221496shoes-png-image.png'),
                           ),
                         ),
                       ],
