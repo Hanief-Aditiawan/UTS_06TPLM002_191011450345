@@ -179,7 +179,8 @@ class _UIUtsState extends State<UIUts> {
                         Expanded(
                           child: Padding(
                             padding: const EdgeInsets.only(top: 18.0),
-                            child: Image.asset('shoes-wasatch-running-3.png'),
+                            child: Image.network(
+                                'https://www.freepnglogos.com/uploads/shoes-png/shoes-wasatch-running-3.png'),
                           ),
                         ),
                       ],
